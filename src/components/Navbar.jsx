@@ -26,7 +26,7 @@ export default function Navbar() {
               cursor: "pointer",
             }}
           >
-            MyLogo
+            MarcDev
           </Typography>
 
           <Stack direction="row" spacing={4}>
